@@ -1,0 +1,3 @@
+﻿  calcuulatrice.cpp
+C:\Users\antoi\source\repos\calcuulatrice\calcuulatrice\calcuulatrice.cpp(32,15): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  calcuulatrice.vcxproj -> C:\Users\antoi\source\repos\calcuulatrice\x64\Debug\calcuulatrice.exe
